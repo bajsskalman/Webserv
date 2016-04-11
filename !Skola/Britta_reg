@@ -1,0 +1,30 @@
+<!DOCTYPE>
+<html lang="sv">
+	<head>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="brittas.css">
+		<title></title>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="meny">
+				<a href="britta.php">Home</a>
+				<a href="Britta_reg.php">Register</a>
+				<a href="Britta_help.php">Support</a>
+			</div>
+		</div>
+		<div>
+			<form>
+				<input type="text" name="username" required>
+				<input type="text" name="customertype" required>
+				<input type="text" name="mail" required>
+				<input type="text" name="contry" required>
+				<input type="text" name="county" required>
+				<input type="text" name="postkod" required>
+				<input type="text" name="adress" required>			
+				<input type="text" name="mobilnummer" required>
+				<input type="text" name="personnummer" required>
+			</form>
+		</div>
+	</body>
+</html>

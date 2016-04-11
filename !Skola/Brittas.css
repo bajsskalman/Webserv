@@ -1,0 +1,87 @@
+
+	.meny a {
+		font-size: 23px;
+		padding-left:7.6%;
+		padding-right: 7.6%;
+		text-decoration: none;
+		background:#999;
+		color: black;
+		transition: background-color 0.5s, color 0.7s;
+		display: inline-block;
+		margin-left: -40px;
+		padding-top: 19px;
+		padding-bottom:19px ;
+		margin-right:
+	}
+
+	.meny p {
+		margin-left: 43%;
+		margin-right: auto;
+		margin-top: 43px;
+		font-size: 25px;
+		color: white;
+		font-weight:bold;
+		width: 10%;
+	}
+
+	.meny a:hover {
+		background-color: green;
+		color: white;
+}
+
+.meny {	
+	background: #333;
+	width: 200%;
+	height: 50px;
+	margin-left: -10px;
+	transition: margin-top 0.5s;
+	padding-left: 50px;
+}
+
+body{
+ background:url(äcklig.jpg);
+ margin:0px;
+ background-size: 100%
+}
+
+.form {
+	margin-top: 100px;
+	width: 320px;
+	font-family: sans-serif;
+	font-size: 18px;
+	background-color: rgba(176,125,57,0.7);
+	margin-left: 100px;
+}
+
+input{
+	margin-top:5px;
+	font-family: inherit;
+	font-size: inherit;
+	margin-left: 8px;
+	margin-bottom: 5px;
+	width: 304px;
+}
+
+.produkten {
+	margin: 10px;
+	font-size: inherit;
+	font-family: inherit;
+	width: 300px;
+
+}
+.beskrivning{
+	min-height: 200px;
+	max-height: 200px;
+	max-width: 300px ;
+	min-width: 300px;
+	font-family: inherit;
+	font-size: inherit;
+	margin-left: 10px;
+}
+
+h1{
+	text-align: center;
+	padding: 10px;
+	margin-bottom:-3px; 
+
+}
